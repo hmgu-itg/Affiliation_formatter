@@ -31,5 +31,5 @@ The affiliation fields can be repeated as many times as necessary. Order of the 
 
 The script creates a formatted html file that can be read by any wordprocessors and save in the desired format. If one person has multiple affiliations their numbers will be listed in an ascending order. The numbers are assigned to affiliations in the order of apperance. 
 
-Author names: [First name] [Middle name initials]. [Last name]^[affiliation_number(s)]
+Author names: [First name] [Middle name initials]. [Last name]^[affiliation_number(s)]</br>
 Affiliation list: [affiliation_number]. [Institute/Department/University], [City/State] [Post/Zip Code], [Country]
